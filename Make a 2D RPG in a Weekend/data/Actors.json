@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":6,"characterName":"People3","classId":1,"equips":[2,1,2,1,0],"faceIndex":6,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":20,"name":"Palnor","nickname":"","note":"","profile":"He seeks the ancient artifact in order to revive his\nkin and the rest of the people of his town."},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Evil","classId":2,"equips":[26,0,0,1,0],"faceIndex":0,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":20,"name":"Gust","nickname":"","note":"","profile":"He seeks the ancient artifact in order to revive\nthe love of his life."},
+{"id":3,"battlerName":"","characterIndex":3,"characterName":"Actor2","classId":3,"equips":[37,0,0,1,0],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":20,"name":"Feylia","nickname":"","note":"","profile":"She seeks the ancient artifact to revive her brother, \nlost to a plague years before."},
+{"id":4,"battlerName":"","characterIndex":5,"characterName":"!Flame","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":99,"maxLevel":99,"name":"Spirit","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":2,"characterName":"Actor1","classId":4,"equips":[14,0,6,2,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":20,"name":"Wrendale","nickname":"","note":"","profile":"A companion who joined your cause at Eagle's \nCrossing."},
+{"id":6,"battlerName":"","characterIndex":5,"characterName":"Actor1","classId":5,"equips":[37,0,5,1,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":20,"name":"Anabeth","nickname":"","note":"","profile":"A companion who joined your cause at Eagle's \nCrossing."}
+]
